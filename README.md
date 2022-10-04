@@ -6,4 +6,4 @@
  - :)
 
 
-[c](FacelessCheetah.github.io/Oldfile.html)
+[c](FacelessCheetah.github.io/OldFile.html)
